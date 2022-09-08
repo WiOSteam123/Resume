@@ -1,4 +1,4 @@
-![App Screenshot](https://raw.githubusercontent.com/psnv03/wios/main/Head.png)
+<img src="[https://github.com/your_image.png](https://raw.githubusercontent.com/psnv03/wios/main/Head.png)" alt="WiOS Workshop" width="250"/>
 ## Git and GitHub Workshop - WiOS
 ### Tasks to-do
 1. Fork this repo <br>
