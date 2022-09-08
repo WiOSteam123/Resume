@@ -17,8 +17,7 @@
 14. <b>Congratulations!</b> on your new Resume website <br>
 15. Flaunt your new resume website on social media and tag WiOS! <br>
 16. Come back to the repo and select ``` Contribute ``` then ``` Create pull request ``` <br>
-17. Mention your Name and Registration number in the PR title <br>
+17. Mention your Name and Registration Number in the PR title <br>
 18. Mention the link to the hosted website in PR body. <br>
-19. Create Pull request. <br>
-20. Congratulations on successfully completing it. We will get back soon with the results. <br>
-21. 
+19. Create pull request. <br>
+20. Congratulations on successfully completing the tasks. We will get back soon with the results! <br>
