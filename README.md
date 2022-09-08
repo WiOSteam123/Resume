@@ -1,4 +1,4 @@
-<img src="[https://github.com/your_image.png](https://raw.githubusercontent.com/psnv03/wios/main/Head.png)" alt="WiOS Workshop" width="250"/>
+# FOSS & Git: Where you know your software
 ## Git and GitHub Workshop - WiOS
 ### Tasks to-do
 1. Fork this repo <br>
@@ -21,3 +21,4 @@
 18. Mention the link to the hosted website in PR body. <br>
 19. Create Pull request. <br>
 20. Congratulations on successfully completing it. We will get back soon with the results. <br>
+21. 
