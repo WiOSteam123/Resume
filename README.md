@@ -1,5 +1,6 @@
-# Git and GitHub Workshop - WiOS
-## Task to-do
+# FOSS & Git: Where you know your software
+## Git and GitHub Workshop - WiOS
+### Tasks to-do
 1. Fork this repo <br>
 2. Clone your fork with ``` git clone ``` command <br>
 3. ``` cd ``` into the cloned directory <br>
