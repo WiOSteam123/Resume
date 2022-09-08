@@ -1,4 +1,4 @@
-# FOSS & Git: Where you know your software
+![App Screenshot](https://raw.githubusercontent.com/psnv03/wios/main/Head.png)
 ## Git and GitHub Workshop - WiOS
 ### Tasks to-do
 1. Fork this repo <br>
