@@ -17,8 +17,8 @@
 14. <b>Congratulations!</b> on your new Resume website <br>
 15. Flaunt your new resume website on social media and tag WiOS! <br>
 16. Come back to the repo and select ``` Contribute ``` then ``` Create pull request ``` <br>
-17. Mention your Name and Registration Number in the PR title <br>
-18. Mention the link to the hosted website in PR body. <br>
+17. Mention your Registration Number in the PR title. It should be of the format ``` 20BCE7xxx_WiOS_Git_Workshop ``` <br>
+18. Mention your name, the link to the hosted website, and the link to your Microsoft Learn public profile in PR body. <br>
 19. Create pull request. <br><br>
 
 ### Congratulations on successfully completing the tasks 🥳. We will get back soon with the results!
